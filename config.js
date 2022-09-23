@@ -16,7 +16,7 @@ APIs = { // API Prefix
   zahir: 'https://zahirr-web.herokuapp.com',
   bcil: 'https://75.119.137.248:21587',
   neoxr: 'https://api.neoxr.eu.org/',
-  zeks: 'https://api.zeks.me',
+  zeks: 'https://api.zeks.me',https://github.com/DuckyTeam/heroku-buildpack-imagemagick --index 1 --
   gimez: 'https://masgimenz.my.id/',
   melcanz: 'https://melcanz.com',
   pencarikode: 'https://pencarikode.xyz',
